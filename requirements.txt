@@ -4,7 +4,9 @@ scikit-learn
 pandas
 numpy
 opencv-python-headless
-tensorflow
+torch
+torchvision
 easyocr
+tensorflow
 pillow
 requests
