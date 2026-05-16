@@ -5,3 +5,6 @@ pandas
 numpy
 opencv-python-headless
 tensorflow
+easyocr
+pillow
+requests
